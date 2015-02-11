@@ -1,5 +1,5 @@
 public class FizzBuzz {
-  public static void main (String[] args) {
+  public static void main(String[] args) {
     int lowerbound = 1;
     int upperbound = 100;
 
